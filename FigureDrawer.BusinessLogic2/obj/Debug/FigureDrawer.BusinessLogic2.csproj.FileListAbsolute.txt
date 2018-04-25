@@ -1,0 +1,10 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.BusinessLogic2\obj\Debug\FigureDrawer.BusinessLogic2.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.BusinessLogic2\bin\Debug\FigureDrawer.BusinessLogic2.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.BusinessLogic2\bin\Debug\FigureDrawer.BusinessLogic2.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.BusinessLogic2\obj\Debug\FigureDrawer.BusinessLogic2.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.BusinessLogic2\obj\Debug\FigureDrawer.BusinessLogic2.pdb
+D:\task_oop\oop\FigureDrawer.BusinessLogic2\bin\Debug\FigureDrawer.BusinessLogic2.dll
+D:\task_oop\oop\FigureDrawer.BusinessLogic2\bin\Debug\FigureDrawer.BusinessLogic2.pdb
+D:\task_oop\oop\FigureDrawer.BusinessLogic2\obj\Debug\FigureDrawer.BusinessLogic2.csprojResolveAssemblyReference.cache
+D:\task_oop\oop\FigureDrawer.BusinessLogic2\obj\Debug\FigureDrawer.BusinessLogic2.dll
+D:\task_oop\oop\FigureDrawer.BusinessLogic2\obj\Debug\FigureDrawer.BusinessLogic2.pdb

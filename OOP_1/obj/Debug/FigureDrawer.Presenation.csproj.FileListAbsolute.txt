@@ -1,0 +1,16 @@
+c:\users\maria\documents\visual studio 2013\Projects\OOP_1\OOP_1\obj\Debug\FigureDrawer.Presenation.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2013\Projects\OOP_1\OOP_1\bin\Debug\OOP_1.exe.config
+c:\users\maria\documents\visual studio 2013\Projects\OOP_1\OOP_1\bin\Debug\OOP_1.exe
+c:\users\maria\documents\visual studio 2013\Projects\OOP_1\OOP_1\bin\Debug\OOP_1.pdb
+c:\users\maria\documents\visual studio 2013\Projects\OOP_1\OOP_1\bin\Debug\FigureDrawer.BusinessLogic.dll
+c:\users\maria\documents\visual studio 2013\Projects\OOP_1\OOP_1\bin\Debug\FigureDrawer.BusinessLogic.pdb
+c:\users\maria\documents\visual studio 2013\Projects\OOP_1\OOP_1\obj\Debug\OOP_1.exe
+c:\users\maria\documents\visual studio 2013\Projects\OOP_1\OOP_1\obj\Debug\OOP_1.pdb
+D:\task_oop\oop\OOP_1\bin\Debug\OOP_1.exe.config
+D:\task_oop\oop\OOP_1\obj\Debug\OOP_1.exe
+D:\task_oop\oop\OOP_1\obj\Debug\OOP_1.pdb
+D:\task_oop\oop\OOP_1\bin\Debug\OOP_1.exe
+D:\task_oop\oop\OOP_1\bin\Debug\OOP_1.pdb
+D:\task_oop\oop\OOP_1\bin\Debug\FigureDrawer.BusinessLogic.dll
+D:\task_oop\oop\OOP_1\bin\Debug\FigureDrawer.BusinessLogic.pdb
+D:\task_oop\oop\OOP_1\obj\Debug\FigureDrawer.Presenation.csprojResolveAssemblyReference.cache

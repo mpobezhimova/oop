@@ -1,0 +1,16 @@
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.Presenation2\obj\Debug\FigureDrawer.Presenation2.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.Presenation2.exe.config
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.Presenation2.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.Presenation2.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.BusinessLogic2.dll
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.BusinessLogic2.pdb
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.Presenation2\obj\Debug\FigureDrawer.Presenation2.exe
+C:\Users\Maria\Documents\Visual Studio 2013\Projects\OOP_1\FigureDrawer.Presenation2\obj\Debug\FigureDrawer.Presenation2.pdb
+D:\task_oop\oop\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.Presenation2.exe.config
+D:\task_oop\oop\FigureDrawer.Presenation2\obj\Debug\FigureDrawer.Presenation2.exe
+D:\task_oop\oop\FigureDrawer.Presenation2\obj\Debug\FigureDrawer.Presenation2.pdb
+D:\task_oop\oop\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.Presenation2.exe
+D:\task_oop\oop\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.Presenation2.pdb
+D:\task_oop\oop\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.BusinessLogic2.dll
+D:\task_oop\oop\FigureDrawer.Presenation2\bin\Debug\FigureDrawer.BusinessLogic2.pdb
+D:\task_oop\oop\FigureDrawer.Presenation2\obj\Debug\FigureDrawer.Presenation2.csprojResolveAssemblyReference.cache
